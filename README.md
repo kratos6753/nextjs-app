@@ -1,4 +1,3 @@
-<<<<<<< head
 # nextjs-app
 dockerized nextjs app
 
